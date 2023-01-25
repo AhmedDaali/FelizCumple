@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Feliz_Cumple</string>
+    <string name="app_name">Feliz Cumple</string>
     <string name="felicidades">{FELICIDADES}</string>
     <string name="de_parte_de">de parte de</string>
     <string name="ahmed">Ahmed</string>
+    <string name="cargando">Cargando...</string>
 </resources>
