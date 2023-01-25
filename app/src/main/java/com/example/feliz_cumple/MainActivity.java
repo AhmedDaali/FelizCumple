@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         MediaPlayer mediaPlayer = MediaPlayer.create(this,R.raw.happy_birthday);
-        mediaPlayer.start();
+        //mediaPlayer.start();
     }
 }
